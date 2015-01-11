@@ -119,3 +119,9 @@ We  upload 4 R files to run in order to create each plot in a separated way.
 In every R file you should define the 'dir' object that hav an defalut value.
 For your case you should run the follow instruction to indicate where the 'household_power_consumption.txt' file are.
  * dir <- 'C:/MyPC/ExploratoryData/Course_project1/'
+
+## Resulting plots
+* Plot 1 :https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot1.png
+* Plot 2 :https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot2.png
+* Plot 3 :https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot3.png
+* Plot 4 :https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot4.png
