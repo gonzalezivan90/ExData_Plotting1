@@ -112,3 +112,10 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+
+## How to run
+We  upload 4 R files to run in order to create each plot in a separated way.
+In every R file you should define the 'dir' object that hav an defalut value.
+For your case you should run the follow instruction to indicate where the 'household_power_consumption.txt' file are.
+ * dir <- 'C:/MyPC/ExploratoryData/Course_project1/'
