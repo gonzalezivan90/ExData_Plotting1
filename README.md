@@ -95,23 +95,22 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-2.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-3.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-4.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+![plot of chunk unnamed-chunk-5](https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-5.png) 
 
 
 ## How to run
@@ -122,10 +121,19 @@ For your case you should run the follow instruction to indicate where the 'house
 
 ## Resulting plots
 * Plot 1: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot1.png
-* Plot 2: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot2.png
-* Plot 3: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot3.png
-* Plot 4: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot4.png
+![plot1](https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot1.png) 
 
+
+* Plot 2: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot2.png
+![plot2](https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot2.png) 
+
+
+* Plot 3: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot3.png
+![plot3](https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot3.png) 
+
+
+* Plot 4: https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot4.png
 ![plot4](https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot4.png) 
+
 
 Those graphics will be saved in 'dir' folder wit 480x480 pixels resolution
