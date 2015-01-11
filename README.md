@@ -136,4 +136,4 @@ For your case you should run the follow instruction to indicate where the 'house
 ![plot4](https://raw.githubusercontent.com/gonzalezivan90/ExData_Plotting1/master/plot4.png) 
 
 
-Those graphics will be saved in 'dir' folder wit 480x480 pixels resolution
+Those graphics will be saved in 'dir' folder with 480x480 pixels resolution
